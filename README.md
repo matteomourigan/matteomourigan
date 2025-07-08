@@ -1,16 +1,31 @@
-## Hi there 👋
+# Matteo Mourigan
+## Purple Team Operations
 
-<!--
-**matteomourigan/matteomourigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Tactical Operator | Purple Team Simulation | DevSecOps Integration
+- Affiliated with Némesis CyberOps and the Daisho Project
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mission Scope
+
+- Simulate adversaries for detection engineering.
+- Develop and test DevSecOps pipelines with security by design.
+- Contribute to Purple Team methodology through controlled experimentation.
+
+---
+
+## Identity
+
+> Matteo Mourigan is a synthetic operational identity used for practical Red/Blue Team simulations as part of the **Daisho Framework**.
+
+---
+
+## Labs & Contributions
+
+In progress... Stay tuned.
+
+---
+
+## Motto
+
+> “Know the adversary. Simulate the threat. Harden the path.”
